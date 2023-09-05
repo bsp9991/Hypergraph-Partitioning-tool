@@ -164,12 +164,18 @@ file from the used and then to open the file.
  	shownodes(Final_partition1,Final_partition2);
 
  *RESULTS*
-BENCHMARK CIRCUIT     INITIAL-CUTSIZE FINAL-CUT SIZE
-spp_N151_E192_R8_232        47              44
-spp_N179_E225_R11_158       71              40
-spp_N189_E227_R6_229        54              49
-spp_N193_E227_R11_153       44              33
-spp_N199_E232_R11_154       54              33
+ 
+BENCHMARK CIRCUIT ------- INITIAL-CUTSIZE---------FINAL-CUT SIZE
+
+spp_N151_E192_R8_232------------47----------------------44
+
+spp_N179_E225_R11_158-----------71----------------------40
+
+spp_N189_E227_R6_229------------54----------------------49
+
+spp_N193_E227_R11_153-----------44----------------------33
+
+spp_N199_E232_R11_154-----------54----------------------33
 
 CONCLUSION:
 The initial cut size, final cut size, e values, i values, d values, final and
