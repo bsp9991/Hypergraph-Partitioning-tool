@@ -1,7 +1,5 @@
 # Hypergraph-Partitioning-tool
 
-# Hypergraph-partitioning-tool
-
 *AIM*
 
 To develop a Hypergraph partitioning tool based on Kernighan-Lin algorithm.
